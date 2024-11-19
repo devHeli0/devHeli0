@@ -5,7 +5,7 @@
   <li>🌱 I like to keep learning. I'm currently learning about Clean Architecture and Container orchestration.</li>
   <li>🎶 Piano student.</li>
   <li>🎈 Hobies indludes continuous self-Improvement, reading, meditation, weight training, and swimming.</li>
-  <li>📖 A book? A Clash of Kings (Gorge R. R. Martin)</li>
+  <li>📖 A book? A Clash of Kings (George R. R. Martin)</li>
   <li>🎵 A music? Negro Drama (Racionais MC's)</li>
 </ul>
 <h1>Skills</h1>
